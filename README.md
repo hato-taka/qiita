@@ -1,5 +1,9 @@
 # qiita
 
+<details>
+
+<summary><Perplexity/summary>
+
 Qiitaの記事をGitHubで管理するには、以下の手順を実行します：
 
 1. GitHubでリポジトリを作成します[1][3]。
@@ -31,16 +35,4 @@ npx qiita pull
 これらの手順を完了すると、GitHubリポジトリにプッシュした際に自動的にQiitaに記事が投稿・更新されるようになります[1][3]。記事の編集は.mdファイルを修正し、再度プッシュすることで行えます[1]。
 
 この方法を使用することで、好みのエディタで記事を執筆し、Gitの機能を活用して編集履歴を管理できるようになります[7]。
-
-Citations:
-[1] https://qiita.com/Qiita/items/32c79014509987541130
-[2] https://qiita.com/ryocha12/items/e412306f9e8339d7cffe
-[3] https://github.com/increments/qiita-cli/blob/main/README.md
-[4] https://qiita.com/t_kyn/items/e6620762584921da9c6d
-[5] https://zenn.dev/shogo_wada_pro/articles/35db506b92caae
-[6] https://qiita.com/torifukukaiou/items/75854acfcb0460d08237
-[7] https://zenn.dev/noraworld/articles/github-to-qiita
-[8] https://qiita.com/ryokat3/items/d054b95f68810f70b136
-
----
-Perplexity の Eliot より: pplx.ai/share
+</details>
